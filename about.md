@@ -7,19 +7,19 @@ type: page
 published: true
 meta:
 ---
-<img class="aligncenter size-medium wp-image-1669" alt="This is my face. There are many like it but this one is mine." src="http://daneden.me/wp-content/uploads/2011/09/50-300x300.jpg">
+<img class="aligncenter" alt="This is my face. There are many like it but this one is mine." src="http://daneden.me/wp-content/uploads/2011/09/50-300x300.jpg">
 
 Hello. My name is Daniel Eden, and I’m a designer.
 
 I’d like to say I’m also a developer, but I stumble my way through most development projects. Let’s just say that I’m a maker. Right now, I’m studying Digital Media Technology at Nottingham Trent University. I’m in my final year of&nbsp;study.
 
-I grew up in <a href="https://maps.google.co.uk/maps?client=safari&amp;rls=en&amp;q=manchester&amp;oe=UTF-8&amp;redir_esc=&amp;um=1&amp;ie=UTF-8&amp;hl=en&amp;sa=N&amp;tab=wl">Manchester</a>, and I’m currently living in <a href="https://maps.google.co.uk/maps?q=Nottingham&amp;hl=en&amp;sll=53.479251,-2.247926&amp;sspn=0.263161,0.683212&amp;hnear=Nottingham,+United+Kingdom&amp;t=m&amp;z=12">Nottingham</a>. I’m working hard to find a job I love in <a href="http://racetothestat.es">San Francisco</a> (but I’ll settle for anywhere in the&nbsp;USA.)
+I grew up in [Manchester](https://maps.google.co.uk/maps?client=safari&amp;rls=en&amp;q=manchester&amp;oe=UTF-8&amp;redir_esc=&amp;um=1&amp;ie=UTF-8&amp;hl=en&amp;sa=N&amp;tab=wl), and I’m currently living in [Nottingham](https://maps.google.co.uk/maps?q=Nottingham&amp;hl=en&amp;sll=53.479251,-2.247926&amp;sspn=0.263161,0.683212&amp;hnear=Nottingham,+United+Kingdom&amp;t=m&amp;z=12) I’m working hard to find a job I love in [San Francisco](http://racetothestat.es) (but I’ll settle for anywhere in the&nbsp;USA.)
 
-I say a lot of things on <a href="http://twitter.com/_dte"><span style="color: #53d4ff;">Twitter</span></a>. I show off my design work-in-progress on <a href="http://dribbble.com/dte"><span style="color: #ea4c88;">Dribbble.</span></a> You can subscribe to my updates on <a href="http://www.facebook.com/daniel.eden"><span style="color: #3b5998;">Facebook</span></a>, take a look at my photos on <a href="http://photos.daneden.me/">my photo blog</a>, take a listen to my musical preferences on <a href="http://rdio.com/people/daneden"><span style="color: #388cd3;">Rdio</span></a>, listen to music I’ve made myself on <a href="http://soundcloud.com/d4te"><span style="color: #ff5401;">SoundCloud</span></a>, and endorse me on <a href="http://zerp.ly/dte"><span style="color: #9dbc7a;">Zerply</span></a>. I also write a lot of code and put it on <a href="https://github.com/daneden">GitHub</a>.
+I say a lot of things on [Twitter](http://twitter.com/_dte). I show off my design work-in-progress on [Dribbble](http://dribbble.com/dte) You can subscribe to my updates on [Facebook](http://www.facebook.com/daniel.eden), take a look at my photos on [my photo blog](http://photos.daneden.me/), take a listen to my musical preferences on [Rdio](http://rdio.com/people/daneden), listen to music I’ve made myself on [Soundcloud](http://soundcloud.com/d4te), and endorse me on [Zerply](http://zerp.ly/dte). I also write a lot of code and put it on [GitHub](https://github.com/daneden).
 
-If you want to talk about design, my work, or what I had for breakfast, you can email me at <a href="mailto:dan.eden@me.com">dan.eden@me.com</a>
+If you want to talk about design, my work, or what I had for breakfast, you can email me at [dan.eden@me.com](mailto:dan.eden@me.com)
 
-<hr>
+___
 
 ## Interviews and more
 If you want to learn a little more about my journey so far, I’d recommend giving the following links a read/listen:
