@@ -1,0 +1,12 @@
+---
+layout: default
+page-class: single-post
+---
+
+<article class="wrap hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">{{ page.title }}</h1>
+		<span class="thats-so-meta">{{ post.date | date: "%d %B, %Y" }}</span>
+	</header>
+	{{ content }}
+</article>
